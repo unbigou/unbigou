@@ -14,20 +14,17 @@
 
 <div align="center">
 	<h3>Calculator, but in the hardest way possible </h3>
-	<p>Consists in a Calculator class following the paradigms of Object-Oriented. <br>
-	It was just a college work, but I thought well organized so take a look!
-	</p>
+	<img src="assets/description.png?raw=true">
 <div/>
 <br>
+<br>
+<br>
+<br>
+<br>
 	
-	
-	
-	
-	
-	
-</br>
 <a href="https://github.com/unbigou/Calculator_OO" title="Calculator Object-Oriented">Calculator_OO</a>
 <p>by now is just it...</p>
+
 <div align="center">
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFiYWJmZDMyNGVkMDAzN2FiNDYwNmY4MjkwNjE5Nzk5MGU5YTg4OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/19z5eSphzYBNLUsF4k/giphy.gif" align='middle'>
 	<br>
