@@ -1,20 +1,10 @@
-<img src="assets/cavera.gif" align="left" weight="200" height="200">
-<img src="assets/face.gif" align="right" weight="200" height="200">
-<h1 align="middle">Hi I'm Pedro "Unbigou" Gradella and I certainly do things!</h1>
+<img src="assets/cavera.gif" align="left" weight="150" height="150">
+<img src="assets/face.gif" align="right" weight="150" height="150">
+<img src="assets/eu.png" align="center">
 
-<br>
-<br>
-<br>
-<br>
-
-<div>
-	<h2>My Skills</h2>
-		<li>C/C++</li>
-		<li>JavaScript</li>
-		<li>Node.js</li>
-<div/>
-	
-<h2>PROJECTS?</h2>
+<div align="left">
+	<img src="assets/projetos.png" weight="50" height="50">
+</div>
 <br>
 	
 <a href="https://github.com/unbigou/Calculator_OO" title="Calculator Object-Oriented">
@@ -29,7 +19,7 @@
 <br>
 <br>
 	
-<p>by now is just it...</p>
+<i align="left">by now is just it....</i>
 
 <div align="center">
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFiYWJmZDMyNGVkMDAzN2FiNDYwNmY4MjkwNjE5Nzk5MGU5YTg4OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/19z5eSphzYBNLUsF4k/giphy.gif" align='middle'>
