@@ -1,6 +1,6 @@
-<img src="assets/cavera.gif" style="float: left" weight="130" height="120" alt="Skull 360o">
-<img src="assets/eu.png" style="float: center" weight="100" height="100" alt="Hi I'm Pedro 'Unbigou' Gradella and I certainly do things!">
-<img src="assets/face.gif" style="float: right" weight="120" height="120" alt="Melting Mask?">
+<img src="assets/cavera.gif" asign="right" weight="120" height="120" alt="Skull 360o">
+<img src="assets/eu.png" asign="center" weight="100" height="100" alt="Hi I'm Pedro 'Unbigou' Gradella and I certainly do things!">
+<img src="assets/face.gif" asign="left" weight="120" height="120" alt="Melting Mask?">
 
 <br>
 <br>
