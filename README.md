@@ -1,9 +1,9 @@
 <img src="assets/cavera.gif" align="left" weight="150" height="150">
 <img src="assets/face.gif" align="right" weight="150" height="150">
-<img src="assets/eu.png" align="center">
+<img src="assets/eu.png" align="center" weight="200" height="200">
 
-<div align="left">
-	<img src="assets/projetos.png" weight="50" height="50">
+<div align="center">
+	<img src="assets/projetos.png" style="max_weight: 100%">
 </div>
 <br>
 	
