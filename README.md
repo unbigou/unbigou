@@ -1,6 +1,6 @@
-<img src="assets/cavera.gif" align="left" weight="120" height="120" alt="Skull 360o">
-<img src="assets/face.gif" align="right" weight="120" height="120" alt="Melting Mask?">
+<img src="assets/cavera.gif" align="left" weight="130" height="120" alt="Skull 360o">
 <img src="assets/eu.png" align="center" weight="100" height="100" alt="Hi I'm Pedro 'Unbigou' Gradella and I certainly do things!">
+<img src="assets/face.gif" align="right" weight="130" height="120" alt="Melting Mask?">
 
 <br>
 <br>
@@ -21,6 +21,7 @@
 	<a href="https://github.com/unbigou/Calculator_OO" title="Calculator Object-Oriented"><img src="assets/description.png?raw=true"  weight="110" height="110" alt="CalculatorDescriptionLink"></a>
 <div/>
 	
+<br>
 <br>
 <br>
 <br>
