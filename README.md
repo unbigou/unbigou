@@ -24,12 +24,7 @@
 	<a href="https://github.com/unbigou/Calculator_OO" title="Calculator Object-Oriented"><img src="assets/description.png?raw=true"  weight="110" height="110" alt="CalculatorDescriptionLink"></a>
 <div/>
 	
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br>
 	
 <i align="left">by now is just it....</i>
 
